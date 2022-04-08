@@ -1,52 +1,36 @@
-Firefox CSS theme to maximize the vertical space of your monitor.
 
-![alt text](pics/overall.png?raw=true)
-(Background: [Tempano Port by Duwon Lee](https://www.artstation.com/artwork/dB84A))
 
-## Contents
-- [Compatibilty](#compatibilty)
-- [Features](#features)  
-- [Suggested Tweaks](#suggested-tweaks)  
-- [Toggle PDF reader dark mode](#toggle-pdf-reader-dark-mode)  
-- [Credits](#credits)  
+Firefox CSS theme to darkn the PDF files, thinner scroll bar and custom wallpaper on newtabs.
 
-## Compatibilty
-Tested on:   
-* Ubuntu 20.04.3 LTS
-* Windows 10 20h1   
+(Background: [View of Moraine Lake by Jaime Reimer](https://www.pexels.com/photo/beautiful-view-of-moraine-lake-2662116/))
 
-Soon:
-*  macOS Catalina 10.15.5 and Big Sur 11.6   
-Problem: [No toolbar!](https://github.com/hakan-demirli/Firefox_Custom_CSS/issues/3)
+# Features
 
-## Features
- * Horizontal tabs are removed. Use [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) or [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)
- * Dark mode for the default PDF reader:  
-   ![alt text](pics/dark_mode.png?raw=true)
+<div align="center">
 
- * Dark mode for hover URL menu:  
- ![alt text](pics/dark_hover_menu.png)
- 
- * Search with Google text removed:  
- ![alt text](pics/search_with_google.png)
+### Custom wallpaper:  
+ ![alt text](pics/newtab.png)
 
- * Thinner scroll bars:  
+### Dark PDF reader:  
+ ![alt text](pics/dark.png)
+
+### Black PDF reader:  
+ ![alt text](pics/black.png)
+
+### Normal PDF reader:  
+ ![alt text](pics/normal.png)
+
+### Thinner scroll bars:  
  ![alt text](pics/scroll_bar.png)
 
-## Suggested Tweaks
-**Enable Compact Mode**    
-_about:config > browser.compactmode.show > True_    
-
-**Toolbar**  
-_Customize mode > Density > Compact_    
-
-**Startup Image**  
-_about:config > browser.startup.preXulSkeletonUI > False_    
+ </div>
 
 
 ## Toggle PDF reader dark mode
-The PDF viewer dark mode is active by default. To deactivate it, just add ```?normal``` to the end of your pdf URL.
-![alt text](pics/pdf_dark_mode.png)
+- The default mode of PDF viewer is darkdefault. 
+- To view original file, add ```?normal``` to the end of your pdf URL.
+- To activate black mode (high contrast), add ```?black``` to the end of your pdf URL.
 
 ## Credits
-  * [r/FirefoxCSS](https://www.reddit.com/r/FirefoxCSS/) 
+  - https://github.com/hakan-demirli/Firefox_Custom_CSS
+  - [r/FirefoxCSS](https://www.reddit.com/r/FirefoxCSS/)
