@@ -4,6 +4,9 @@ Firefox CSS theme to darkn the PDF files, thinner scroll bar and custom wallpape
 
 (Background: [View of Moraine Lake by Jaime Reimer](https://www.pexels.com/photo/beautiful-view-of-moraine-lake-2662116/))
 
+# Demo & Setup
+[Watch me on YouTube](https://youtu.be/SbcpgtgFYNU)
+
 # Features
 
 <div align="center">
